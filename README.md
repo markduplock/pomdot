@@ -1,6 +1,6 @@
 # Pomdot
 
-Pomdot is a minimal terminal with support for focus / rest / repeat timers and user configs.
+Pomdot is a minimal terminal pomodoro timer with support for focus / rest / repeat timers and user configs.
 
 Current version: `1.0`
 
